@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ram</Name>
+  <Age>12</Age>
+  <City>
+    <Name>Blr</Name>
+    <Population>10000</Population>
+  </City>
+</Person>
