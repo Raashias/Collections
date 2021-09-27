@@ -23,8 +23,8 @@ namespace Parallelisation1
             thread1.Start(a);
             thread2.Start(a);
 
-            Task Task1 = new Task (b.Evenn);
-            Task1.Start();
+            //Task Task1 = new Task (b.Evenn);
+            //Task1.Start();
             for(int i=0; i< Convert.ToInt32(a);i++)
             {
                 if(i%2 == 0)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionSharp", "ReflectionSharp\ReflectionSharp.csproj", "{5111AACE-1B2E-4D83-A96E-4ABF3B80EFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChordFileGenerator", "ChordFileGenerator\ChordFileGenerator.csproj", "{6E7EBD68-C0F7-46F5-849B-5E7DD5BA52E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5111AACE-1B2E-4D83-A96E-4ABF3B80EFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5111AACE-1B2E-4D83-A96E-4ABF3B80EFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5111AACE-1B2E-4D83-A96E-4ABF3B80EFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5111AACE-1B2E-4D83-A96E-4ABF3B80EFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7EBD68-C0F7-46F5-849B-5E7DD5BA52E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7EBD68-C0F7-46F5-849B-5E7DD5BA52E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7EBD68-C0F7-46F5-849B-5E7DD5BA52E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7EBD68-C0F7-46F5-849B-5E7DD5BA52E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8607CCD6-5204-4202-8984-3BD6B7CD62A6}
+	EndGlobalSection
+EndGlobal
